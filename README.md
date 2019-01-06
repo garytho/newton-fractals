@@ -6,8 +6,9 @@ I was inspired to make this repo by this book, which I highly recommend.
 Although Newton's Method has guaranteed convergence under certain conditions, Newton's Method can be sensitive to its starting position.
 
 # Here are some pictures of the results. A more detailed explanation of how Newton's Method works is forthcoming.
-<img src="pics/figure_2.tiff">
-<img src="pics/Figure_1.tiff">
-<img src="pics/Figure_1.pdf">
+<img src="pics/figure_1.png">
+<img src="pics/figure_2.png">
+<img src="pics/Figure_1-1.png">
+<img src="pics/Figure_2-1.png">
 # Be warned, if you give your polynomial too many roots it will look rather boring:
 <img src="pics/pic5.png">
