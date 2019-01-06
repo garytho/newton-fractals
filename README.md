@@ -8,6 +8,6 @@ Although Newton's Method has guaranteed convergence under certain conditions, Ne
 # Here are some pictures of the results. A more detailed explanation of how Newton's Method works is forthcoming.
 <img src="pics/figure_2.tiff">
 <img src="pics/Figure_1.tiff">
-<img src="pics/Figure_7.png">
+<img src="pics/Figure_1.pdf">
 # Be warned, if you give your polynomial too many roots it will look rather boring:
 <img src="pics/pic5.png">
