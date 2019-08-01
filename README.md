@@ -3,7 +3,7 @@ This is a short code to generate fractals using <a href="https://en.wikipedia.or
 
 I was inspired to make this repo by this book, which I highly recommend.
 <img src="pics/hubbard_pic.jpg">
-Although Newton's Method has guaranteed convergence under certain conditions, Newton's Method can be sensitive to its starting position.
+Although Newton's Method has guaranteed (fast) convergence under certain conditions, when those conditions are not met, Newton's Method can behave chaotically.
 
 # Here are some pictures of the results. A more detailed explanation of how Newton's Method works is forthcoming.
 
